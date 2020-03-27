@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # scala-swing (mostly-unsupported)
 
 [<img src="https://img.shields.io/travis/scala/scala-swing/java7.svg"/>](https://travis-ci.org/scala/scala-swing)
@@ -128,3 +129,7 @@ at [http://www.scala-lang.org/documentation/api.html](http://www.scala-lang.org/
 
 Current changes are being made on the `work` branch.
 Last published version is found on the `main` branch.
+=======
+# scala-swing
+Scala wrappers for Java's Swing API for desktop GUIs
+>>>>>>> 1c4e2d1624a7942e58f978fcbdf9b41dea0b8e12
